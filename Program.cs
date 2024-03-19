@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine($"Submodule: {Submodule.Submodule.PROJECT_NAME}");
+Console.WriteLine($"Subtree: {Submodule.Submodule.PROJECT_NAME}");
